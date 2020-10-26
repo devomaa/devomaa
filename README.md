@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**devomaa/devomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br><br>
+  <samp>
+    Hi, I'm pjals
+    <br>
+    I program mostly in Lua, and I know some C[++] and Python.
+    <br>
+    I don't really know what to put here so have a Axolotl!
+    <br><br>
+    <img src='https://science.sciencemag.org/content/sci/355/6325/592.1/F1.large.jpg' alt='Axolotl' width="300" height="400">
+  </samp>
+</p>
