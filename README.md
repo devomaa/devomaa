@@ -8,7 +8,11 @@
     I don't really know what to put here so have a Axolotl!
     <br><br>
     <img src='https://science.sciencemag.org/content/sci/355/6325/592.1/F1.large.jpg' alt='Axolotl' width="300" height="400">
+    <br>
   </samp>
 </p>
 
+# Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devomaa)](https://github.com/anuraghazra/github-readme-stats)
+
